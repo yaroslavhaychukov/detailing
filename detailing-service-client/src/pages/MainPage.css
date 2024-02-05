@@ -1,0 +1,46 @@
+.app-background {
+    min-height: 100vh;
+}
+
+/* .main-title {
+    color: #ceb3ff;
+} */
+
+.book-now-section {
+    background-color: #cfcfcf;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
+
+.service-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.service-list li {
+    background-color: #e7e7e7;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s ease;
+}
+
+.service-list li:hover {
+    background-color: #f0f0f0;
+}
+
+.about-us {
+    color: #333;
+    line-height: 1.6;
+}
